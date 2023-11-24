@@ -54,9 +54,6 @@ h2 {
   text-align: center;
 }
 
-.skills {
-  /* display: flex; */
-}
 img {
   height: 200px;
 }
@@ -65,8 +62,12 @@ img {
   margin-top: 25px;
 }
 
+/* .skill {
+} */
+
 .html {
-  height: 100vh;
+  min-height: 100vh;
+  /* height: 100vh; */
   display: flex;
   align-items: center;
   justify-content: space-between;
